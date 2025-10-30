@@ -1,37 +1,50 @@
-# Banking System Mini Project 💰
+# 🏦 Banking System Mini Project (Python)
 
-This is a simple *Python-based Banking System* mini project created using basic Object-Oriented Programming (OOP) concepts.  
-It allows users to perform simple banking operations such as creating an account, depositing money, withdrawing money, and checking balances.
+This is a simple *Python-based Banking System Mini Project* created using *Object-Oriented Programming (OOP)* concepts.  
+The system simulates a real-world banking experience where users can choose between a *Savings Account* or a *Current Account, perform basic operations, and even use an **Overdraft limit* for Current Accounts.
 
 ---
 
 ## 🚀 Features
-- Create new bank accounts
-- Deposit and withdraw money
-- Check current account balance
-- Display customer details
-- Simple and easy-to-use console interface
+✅ Create a *Savings* or *Current Account*  
+✅ Deposit money into your account  
+✅ Withdraw money safely with balance validation  
+✅ Check your *account balance* anytime  
+✅ Display *account details* (name, account type, balance)  
+✅ Overdraft protection for *Current Accounts* — up to *₹1000 limit*  
+✅ Simple, interactive, and beginner-friendly console interface  
 
 ---
 
 ## 🧠 Concepts Used
 - Classes and Objects  
-- Encapsulation  
-- Inheritance  
-- File Handling (optional if added later)
+- Inheritance (SavingsAccount, CurrentAccount)  
+- Encapsulation (data protection)  
+- Conditional Logic (if-else operations)  
+- Exception Handling (optional)  
+- Basic File Handling (if used for saving data)  
 
 ---
 
 ## 🛠️ Technologies Used
 - *Programming Language:* Python 3  
 - *IDE Used:* PyCharm  
+- *OS Support:* Windows / macOS / Linux  
 
 ---
 
-## 📂 How to Run
-1. Download or clone this repository.  
-2. Open it in *PyCharm* or any Python IDE.  
-3. Run the file *banking project.py*.  
+## 💡 How It Works
+1. The user is prompted to *create an account*.  
+2. Choose between:
+   - 🏦 *Savings Account*
+   - 💼 *Current Account* (comes with ₹1000 overdraft limit)  
+3. Perform operations such as:
+   - Deposit money  
+   - Withdraw money  
+   - Check balance  
+   - Display account details  
+
+If a *Current Account* holder withdraws beyond their balance, they can use the *overdraft limit of ₹1000*.
 
 ---
 
