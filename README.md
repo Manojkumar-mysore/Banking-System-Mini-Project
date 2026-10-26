@@ -49,8 +49,7 @@ If a *Current Account* holder withdraws beyond their balance, they can use the *
 ---
 
 ## 👨‍💻 Author
-*Manoj Kumar Mysore*  
-📧 [https://www.linkedin.com/in/manoj-kumar-36857b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+- **LinkedIn:** [Manoj Kumar](https://www.linkedin.com/in/manoj-kumar-36857b319)
 
 ---
 
